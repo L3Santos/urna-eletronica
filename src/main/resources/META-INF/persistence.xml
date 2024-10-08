@@ -1,0 +1,25 @@
+<persistence xmlns="http://java.sun.com/xml/ns/persistence" version="2.0">
+    <persistence-unit name="urnaPU">
+        <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
+        <class>com.urna.entity.Candidato</class>
+        <class>com.urna.entity.Partido</class>
+        <class>com.urna.entity.Pessoa</class>
+        <properties>
+            <!-- Configurações de conexão com o banco de dados -->
+            <property name="javax.persistence.jdbc.url" value="jdbc:postgresql://localhost:5432/urna" />
+            <property name="javax.persistence.jdbc.user" value="postgres" />
+            <property name="javax.persistence.jdbc.password" value="l20l20l20" />
+            <property name="javax.persistence.jdbc.driver" value="org.postgresql.Driver" />
+
+            <!-- Hibernate Dialect para PostgreSQL -->
+            <property name="hibernate.dialect" value="org.hibernate.dialect.PostgreSQLDialect" />
+
+            <!-- Configuração de criação do banco de dados -->
+            <property name="hibernate.hbm2ddl.auto" value="update" />
+
+            <!-- Log SQL -->
+            <property name="hibernate.show_sql" value="true" />
+            <property name="hibernate.format_sql" value="true" />
+        </properties>
+    </persistence-unit>
+</persistence>

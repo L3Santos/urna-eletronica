@@ -1,0 +1,16 @@
+com/urna/utils/TocaSomUtils.class
+com/urna/controller/CandidatoController/CandidatoController.class
+com/urna/bean/CandidatoBean/CandidatoBean.class
+com/urna/bean/UrnaBean/UrnaBean.class
+com/urna/controller/CandidatoController/CandidatoController$1.class
+com/urna/entity/Pessoa.class
+com/urna/entity/Candidato.class
+com/urna/controller/EleicaoController/EleicaoController.class
+com/urna/enuns/TipoCandidato.class
+com/urna/bean/PartidoBean/PartidoBean.class
+com/urna/entity/Partido.class
+com/urna/enuns/TipoPessoa.class
+com/urna/utils/HibernateUtil.class
+com/urna/controller/PartidoController/PartidoController.class
+com/urna/controller/UrnaController/UrnaController.class
+com/urna/App.class

@@ -1,0 +1,15 @@
+/home/lsantos/Documentos/CodeCloudSystems/urna/src/main/java/com/urna/utils/TocaSomUtils.java
+/home/lsantos/Documentos/CodeCloudSystems/urna/src/main/java/com/urna/entity/Pessoa.java
+/home/lsantos/Documentos/CodeCloudSystems/urna/src/main/java/com/urna/enuns/TipoCandidato.java
+/home/lsantos/Documentos/CodeCloudSystems/urna/src/main/java/com/urna/bean/CandidatoBean/CandidatoBean.java
+/home/lsantos/Documentos/CodeCloudSystems/urna/src/main/java/com/urna/enuns/TipoPessoa.java
+/home/lsantos/Documentos/CodeCloudSystems/urna/src/main/java/com/urna/entity/Candidato.java
+/home/lsantos/Documentos/CodeCloudSystems/urna/src/main/java/com/urna/App.java
+/home/lsantos/Documentos/CodeCloudSystems/urna/src/main/java/com/urna/entity/Partido.java
+/home/lsantos/Documentos/CodeCloudSystems/urna/src/main/java/com/urna/controller/PartidoController/PartidoController.java
+/home/lsantos/Documentos/CodeCloudSystems/urna/src/main/java/com/urna/controller/CandidatoController/CandidatoController.java
+/home/lsantos/Documentos/CodeCloudSystems/urna/src/main/java/com/urna/bean/UrnaBean/UrnaBean.java
+/home/lsantos/Documentos/CodeCloudSystems/urna/src/main/java/com/urna/controller/EleicaoController/EleicaoController.java
+/home/lsantos/Documentos/CodeCloudSystems/urna/src/main/java/com/urna/bean/PartidoBean/PartidoBean.java
+/home/lsantos/Documentos/CodeCloudSystems/urna/src/main/java/com/urna/utils/HibernateUtil.java
+/home/lsantos/Documentos/CodeCloudSystems/urna/src/main/java/com/urna/controller/UrnaController/UrnaController.java
